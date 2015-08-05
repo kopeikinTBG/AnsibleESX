@@ -1,0 +1,3 @@
+---
+- name: Install tar 
+  yum: name=tar state=present  
