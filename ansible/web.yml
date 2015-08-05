@@ -1,0 +1,8 @@
+---  
+- hosts: web-servers
+  remote_user: root
+  sudo: yes
+  roles:
+    - zip
+    - tar
+    - git
