@@ -1,2 +1,2 @@
 # vagrant-ansible-centos
-Ansible Vagrant and Centos65 for Provisioning 
+Ansible Vagrant and Centos65 for Provisioning. 
